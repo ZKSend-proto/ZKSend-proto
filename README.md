@@ -99,3 +99,4 @@ on-chain program — the only footprint is a 48-character memo.
 <!-- docs: add 'what' section explaining protocol -->
 <!-- docs: tweak banner gradient stops -->
 <!-- docs: fix typing animation speed -->
+<!-- docs: tighten stack section layout -->
