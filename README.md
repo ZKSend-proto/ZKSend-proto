@@ -94,3 +94,5 @@ on-chain program — the only footprint is a 48-character memo.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:0a0a0a,100:0a0a0a&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 </div>
+
+<!-- docs: link pinned repos in tagline area -->
