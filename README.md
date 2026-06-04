@@ -96,3 +96,4 @@ on-chain program — the only footprint is a 48-character memo.
 </div>
 
 <!-- docs: link pinned repos in tagline area -->
+<!-- docs: add 'what' section explaining protocol -->
